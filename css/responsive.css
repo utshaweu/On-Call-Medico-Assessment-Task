@@ -1,0 +1,282 @@
+/* ====================================================================================================
+                                        Extra Small Device
+====================================================================================================== */
+@media(max-width: 575.98px){
+  .navbar-light .navbar-toggler {
+    border-color: transparent;
+  }
+  button:focus {
+    outline: 0;
+  }
+  .navbar{
+    z-index: 9999;
+  }
+  .navbar-toggler i{
+    color: #ffffff;
+    font-size: 28px;
+  }
+  .navbar-collapse {
+    text-align: center;
+    background: #8c7ae6;
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+  .cmn-btn{
+    margin-top: 30px;
+  }
+  #banner{
+    clip-path: none;
+  }
+  .mr1{
+    margin-bottom: 15px;
+  }
+  .service-content{
+    text-align: center;
+  }
+  #service{
+    padding-bottom: 0;
+  }
+  #video{
+    clip-path: none;
+  }
+  #skill{
+    padding-bottom: 0;
+  }
+  .skill-item{
+    margin-bottom: 20px;
+  }
+  #portfolio {
+    padding-top: 150px;
+    padding-bottom: 200px;
+    clip-path: polygon(0 6%, 100% 0, 100% 93%, 0% 100%);
+  }
+  .button{
+    padding-bottom: 50px;
+  }
+  .button button{
+    margin-bottom: 10px;
+  }
+  .project-item{
+    padding-bottom: 0;
+  }
+  .mr3{
+    padding-bottom: 50px;
+  }
+  #client{
+    padding-bottom: 80px;
+  }
+  .hire-item{
+    text-align: center;
+  }
+  .mr6{
+    text-align: center;
+  }
+  .mr7{
+    margin-left: 0;
+  }
+  #footer{
+    padding-top: 80px;
+  }
+  .footer-item h6{
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .footer-border{
+    padding-top: 65px;
+  }
+}
+
+/* =======================================================================================================
+                                                  Small Device
+========================================================================================================= */
+@media(min-width:576px) and (max-width:767.98px){
+  .navbar-light .navbar-toggler {
+    border-color: transparent;
+  }
+  button:focus {
+    outline: 0;
+  }
+  .navbar{
+    z-index: 9999;
+  }
+  .navbar-toggler i{
+    color: #ffffff;
+    font-size: 28px;
+  }
+  .navbar-collapse {
+    text-align: center;
+    background: #8c7ae6;
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+  .cmn-btn{
+    margin-top: 30px;
+  }
+  #banner{
+    clip-path: none;
+  }
+  .mr1{
+    margin-bottom: 15px;
+  }
+  #service{
+    padding-bottom: 0;
+  }
+  #video{
+    clip-path: none;
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  .skill-item{
+    margin-bottom: 20px;
+  }
+  #portfolio {
+    padding-top: 120px;
+    padding-bottom: 170px;
+    clip-path: polygon(0 10%, 100% 0, 100% 85%, 0% 100%);
+  }
+  .button{
+    padding-bottom: 50px;
+  }
+  .button button{
+    margin-bottom: 10px;
+  }
+  .project-item{
+    padding-bottom: 0;
+  }
+  .mr3{
+    padding-bottom: 50px;
+  }
+  .mr4{
+    margin-left: 25px;
+  }
+  .client-content h6{
+    font-size: 14px;
+  }
+  .client-content span{
+    font-size: 12px;
+  }
+  .client-content p{
+    padding-bottom: 40px;
+  }
+  .hire-item{
+    text-align: center;
+  }
+  .mr6{
+    text-align: center;
+  }
+  .mr7{
+    margin-left: 0;
+  }
+  #footer{
+    padding-top: 80px;
+  }
+  .footer-item h6{
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+  .footer-border{
+    padding-top: 65px;
+  }
+}
+
+/* =======================================================================================================
+                                                Medium Device 
+==========================================================================================================*/
+@media(min-width:768px) and (max-width:991.98px){
+  .navbar-light .navbar-toggler {
+    border-color: transparent;
+  }
+  button:focus {
+    outline: 0;
+  }
+  .navbar{
+    z-index: 9999;
+  }
+  .navbar-toggler i{
+    color: #ffffff;
+    font-size: 28px;
+  }
+  .navbar-collapse {
+    text-align: center;
+    background: #8c7ae6;
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+  .cmn-btn{
+    margin-top: 30px;
+  }
+  #banner{
+    clip-path: none;
+  }
+  .mr1{
+    margin-bottom: 15px;
+  }
+  #service{
+    padding-bottom: 0;
+  }
+  #video{
+    clip-path: none;
+    padding-top: 200px;
+    padding-bottom: 200px;
+  }
+  .skill-item{
+    margin-bottom: 20px;
+  }
+  #portfolio {
+    padding-top: 120px;
+    padding-bottom: 170px;
+    clip-path: polygon(0 10%, 100% 0, 100% 85%, 0% 100%);
+  }
+  .button{
+    padding-bottom: 50px;
+  }
+  .button button{
+    margin-bottom: 10px;
+  }
+  .project-item{
+    padding-bottom: 0;
+  }
+  .mr3{
+    padding-bottom: 50px;
+  }
+  .mr4{
+    margin-left: 25px;
+  }
+  .client-content p{
+    font-size: 13px;
+  }
+  .hire-item{
+    text-align: center;
+  }
+  .mr6{
+    text-align: center;
+  }
+  #footer{
+    padding-top: 80px;
+  }
+  .footer-border{
+    padding-top: 65px;
+  }
+}
+
+/* =================================================================================================
+                                             Large Device
+==================================================================================================== */
+@media(min-width:992px) and (max-width:1199.98px){
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 15px;
+    padding-right: 12px;
+  }
+  .service-content p{
+    font-size: 13px;
+  }
+  #video{
+    clip-path: none;
+  }
+  .client-content p{
+    font-size: 13px;
+  }
+  .icon a i{
+    margin-right: 16px;
+  }
+}
